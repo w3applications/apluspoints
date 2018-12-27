@@ -1519,3 +1519,17 @@
 		body.is-loading-0 #footer {
 			opacity: 0;
 		}
+
+.app-store {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	z-index: 999;
+}
+
+.google-play {
+	position: fixed;
+	top: 50px;
+	left: 0;
+	z-index: 999;
+}
